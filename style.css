@@ -1,0 +1,11 @@
+img { 
+    width: 500px;
+}
+body {
+    font-family: "Playwrite AU NSW";
+    text-align: center;
+    background: rgb(230, 187, 231);
+    color: rgb(138, 55, 146);
+    margin-left: 100px;
+    margin-right: 100px;
+}
